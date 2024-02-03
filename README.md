@@ -17,7 +17,7 @@
 -
 -
 -
-W-hy are you still here?
+Why are you still here?
 -
 -
 -
@@ -25,7 +25,7 @@ W-hy are you still here?
 -
 -
 -
---
+-
 -
 -
 -
@@ -222,13 +222,13 @@ But there are no gifts here :)
 -
 -
 -
---
-
--
---
 -
 
---
+-
+-
+-
+
+-
 
 -
 -
@@ -243,58 +243,6 @@ But there are no gifts here :)
 -
 -
 No gifts :/
---
---
--
--
--
--
--
--
--
--
---
--
--
---
-
---
--
--
-
--
--
--
--
-O-kay, I'll give you a special gift
-
---
--
--
--
--
--
---
--
--
--
-D-o you want to get this gift?
--
-
--
--
--
--
---
--
--
--
--
--
-I-f you said yes, scroll down : )
--
--
---
 -
 -
 -
@@ -313,16 +261,64 @@ I-f you said yes, scroll down : )
 -
 -
 -
+-
+Okay, I'll give you a special gift
+
+-
+-
+-
+-
+-
+-
 --
 -
 -
 -
+Do you want to get this gift?
+-
+
 -
 -
 -
 -
 -
---
+-
+-
+-
+-
+-
+If you said yes, scroll down : )
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 -
 -
 -
