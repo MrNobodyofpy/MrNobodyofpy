@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrNobodyofpy
 (My real name is my real name : ))
 - 👀 I’m interested in programming. That's why I am here.
-- 🌱 I’m currently learning Python, GDScript...
+- 🌱 I’m currently learning Python, GDScript, C#...
 - 😄 Pronouns: call me "human"
 - ⚡ Fun fact: I am an alien, not a human.
 - In fact, I am working at NSDtechforC with my friends.
