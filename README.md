@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrNobodyofpy
+- 👋 Hi, I’m @MrNobody
 (My real name is my real name : ))
 - 👀 I’m interested in programming. That's why I am here.
 - 🌱 I’m currently learning Python, GDScript, C#...
