@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MrNobody
-(My real name is my real name : ))
 - 👀 I’m interested in programming. That's why I am here.
-- 🌱 I’m currently learning Python, GDScript, C#...
+- 🌱 I’m currently learning C#, JavaScript, Python,...
 - 😄 Pronouns: call me "human"
 - ⚡ Fun fact: I am an alien, not a human.
 - I have a present for you:
